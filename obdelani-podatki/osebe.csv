@@ -1,0 +1,329 @@
+id_osebe,ime,starost,leto_rojstva
+4,Douglas Adams,49,1952
+7,Bill Bryson,68,1951
+16,Edith Wharton,75,1862
+49,Johanna Spyri,74,1827
+58,Frank Herbert,65,1920
+63,Bryce Courtenay,79,1933
+106,Madeleine L'Engle,88,1918
+173,George Eliot,61,1819
+205,Robert A. Heinlein,80,1907
+214,Norton Juster,90,1929
+306,William Golding,81,1911
+316,Alice Sebold,56,1963
+401,Robert M. Pirsig,88,1928
+432,Ayn Rand,77,1905
+566,Paulo Coelho,,
+569,Khaled Hosseini,54,1965
+585,John Steinbeck,66,1902
+589,Orson Scott Card,68,1951
+614,Arthur Golden,63,1956
+630,Dan Brown,,
+704,Pearl S. Buck,80,1892
+713,Lisa See,,
+721,John Grisham,,
+811,Yann Martel,56,1963
+815,Carlos Ruiz Zafón,55,1964
+861,Jean M. Auel,84,1936
+879,Plato,80,-428
+903,Homer,,
+947,William Shakespeare,,
+1050,Mark Haddon,57,1962
+1055,Larry McMurtry,83,1936
+1194,Richard Dawkins,,
+1235,Jon Krakauer,,
+1240,Jack London,40,1876
+1244,Mark Twain,74,1835
+1265,Jane Austen,41,1775
+1315,Louisa May Alcott,55,1832
+1438,Walt Whitman,72,1819
+1455,Ernest Hemingway,61,1899
+1461,Gustave Flaubert,58,1821
+1467,Jeffrey Eugenides,59,1960
+1624,Herman Melville,72,1819
+1630,Ray Bradbury,91,1920
+1654,Terry Pratchett,66,1948
+1730,Umberto Eco,84,1932
+1742,Jack Kerouac,47,1922
+1825,Harper Lee,89,1926
+1831,Jonathan Swift,77,1667
+1838,Geoffrey Chaucer,,
+1873,David Guterson,63,1956
+1881,Dave Pelzer,,
+1949,Katherine Paterson,87,1932
+1954,Natalie Babbitt,84,1932
+1973,Tracy Chevalier,,
+2007,Daniel Defoe,70,1660
+2041,Frances Hodgson Burnett,74,1849
+2238,Isabel Allende,,
+2330,Tim O'Brien,73,1946
+2331,Mitch Albom,,
+2345,Nicholas Sparks,,
+2383,Gillian Flynn,,
+2408,Ian McEwan,71,1948
+2448,Arthur Conan Doyle,71,1859
+2493,Lois Lowry,,
+2526,Libba Bray,,
+2530,Anna Sewell,58,1820
+2546,Chuck Palahniuk,,
+2617,Jonathan Safran Foer,,
+2715,Michael Chabon,56,1963
+2751,Bret Easton Ellis,55,1964
+2782,Viktor E. Frankl,92,1905
+2849,David Sedaris,63,1956
+2894,Bernhard Schlink,75,1944
+2929,Nick Hornby,62,1957
+3049,John Kennedy Toole,31,1937
+3075,John Irving,,
+3090,Helen Fielding,,
+3167,Joseph Heller,76,1923
+3190,F. Scott Fitzgerald,44,1896
+3242,L. Frank Baum,62,1856
+3299,Salman Rushdie,72,1947
+3345,Joseph Conrad,66,1857
+3347,Frank McCourt,78,1930
+3354,Haruki Murakami,71,1949
+3362,Eric Carle,90,1929
+3389,Stephen King,,
+3441,Terry Goodkind,,
+3447,Ken Follett,,
+3472,Margaret Atwood,,
+3487,Aldous Huxley,69,1894
+3489,Rebecca Wells,,
+3496,John Knowles,75,1926
+3503,Maya Angelou,86,1928
+3505,Wally Lamb,,
+3534,Toni Morrison,88,1931
+3535,William Faulkner,64,1897
+3539,Rohinton Mistry,67,1952
+3540,Janet Fitch,,
+3541,Barbara Kingsolver,64,1955
+3565,Oscar Wilde,46,1854
+3617,Diana Gabaldon,,
+3618,Philip Pullman,73,1946
+3706,George Orwell,46,1903
+3720,Anne Frank,15,1929
+3780,James Patterson,,
+3843,Kenneth Grahame,73,1859
+3873,Mikhail Bulgakov,48,1891
+3961,Alan Moore,,
+4030,Michael Ondaatje,76,1943
+4116,Erich Maria Remarque,72,1898
+4178,Cormac McCarthy,86,1933
+4191,Emily Brontë,30,1818
+4260,Diana Wynne Jones,76,1934
+4273,Roald Dahl,74,1916
+4280,Kazuo Ishiguro,65,1954
+4339,David Foster Wallace,46,1962
+4379,Sylvia Plath,30,1932
+4489,Maurice Sendak,83,1928
+4694,Laura Esquivel,69,1950
+4711,Sue Monk Kidd,,
+4764,Philip K. Dick,53,1928
+4785,Alexandre Dumas,68,1802
+4952,John Berendt,80,1939
+4999,Scott O'Dell,91,1898
+5117,Art Spiegelman,72,1948
+5132,Kate Chopin,54,1850
+5144,James Joyce,58,1882
+5152,Vladimir Nabokov,78,1899
+5194,Michael Crichton,66,1942
+5223,Franz Kafka,40,1883
+5237,Hunter S. Thompson,67,1937
+5246,Amy Tan,,
+5300,Laura Ingalls Wilder,90,1867
+5350,L.M. Montgomery,67,1874
+5735,Anthony Burgess,76,1917
+5869,Erik Larson,,
+5918,Elizabeth Kostova,55,1964
+6125,Fannie Flagg,75,1944
+6134,Arundhati Roy,,
+6252,Robert Jordan,58,1948
+6343,Milan Kundera,90,1929
+6417,James Clavell,69,1924
+6492,Francine Rivers,,
+6569,Louis Sachar,65,1954
+6765,Virginia Woolf,59,1882
+6810,Wilson Rawls,71,1913
+6900,Thomas Keneally,84,1935
+6942,Pat Conroy,70,1945
+6988,Bram Stoker,64,1847
+7025,Gregory Maguire,65,1954
+7128,Jodi Picoult,,
+7130,Charles Frazier,69,1950
+7195,John Boyne,48,1971
+7285,Ken Kesey,66,1935
+7380,Alice Walker,76,1944
+7385,Chaim Potok,73,1929
+7508,Ralph Ellison,81,1913
+7565,William Styron,81,1925
+7577,Anne Rice,78,1941
+7717,Richard  Adams,96,1920
+7751,Tennessee Williams,71,1911
+7799,Nathaniel Hawthorne,59,1804
+7902,Boris Pasternak,70,1890
+8002,John Grogan,62,1957
+8051,Chinua Achebe,82,1930
+8120,Arthur  Miller,89,1915
+8164,Lewis Carroll,65,1832
+8349,Christopher Paolini,36,1983
+8719,Donna Tartt,56,1963
+8842,Susanna Clarke,60,1959
+9057,Gaston Leroux,58,1868
+9226,William Gibson,71,1948
+9876,John Milton,65,1608
+9987,Philippa Gregory,,
+10003,Laurie Halse Anderson,58,1961
+10264,Henry David Thoreau,44,1817
+10896,Eoin Colfer,54,1965
+11072,Daniel Keyes,86,1927
+11081,Margaret Mitchell,48,1900
+11139,Mary Wollstonecraft Shelley,53,1797
+11315,Evelyn Waugh,62,1903
+11466,Markus Zusak,44,1975
+11679,Elizabeth Gilbert,,
+12455,Thomas  Harris,79,1940
+12521,William Goldman,87,1931
+12605,Mario Puzo,78,1920
+12696,Jerry Spinelli,79,1941
+12793,Charles Darwin,73,1809
+12898,Stephen Chbosky,50,1970
+12942,Judy Blume,,
+13450,Gabriel García Márquez,87,1927
+13661,Victor Hugo,83,1802
+13677,Gail Carson Levine,72,1947
+13778,Bill Watterson,61,1958
+13957,Scott Westerfeld,,
+15151,Zora Neale Hurston,69,1891
+15619,Michael Ende,65,1929
+15872,Rick Riordan,,
+15873,Cornelia Funke,61,1958
+15905,Thomas Hardy,87,1840
+16201,Niccolò Machiavelli,58,1469
+16218,Christopher Moore,,
+16667,Isaac Asimov,72,1920
+16904,Richard Bach,,
+17015,P.C. Cast,,
+17061,Charlaine Harris,,
+17434,Alex Haley,70,1921
+18062,James Herriot,78,1916
+18479,Margaret Wise Brown,42,1910
+18540,T.S. Eliot,76,1888
+18907,Gregory David Roberts,67,1952
+20248,J.R. Ward,,
+22665,Diane Setterfield,,
+23510,Upton Sinclair,90,1878
+23613,Emma Donoghue,,
+24556,Sara Gruen,,
+24824,Jon Stone,65,1931
+26242,Harriet Beecher Stowe,85,1811
+30913,Laura Hillenbrand,52,1967
+31712,Ernest Cline,,
+34933,Jane Carruth,,
+38550,Brandon Sanderson,,
+39402,Patrick Süskind,70,1949
+61105,Dr. Seuss,87,1904
+69007,Beatrice Sparks,94,1918
+81466,A.A. Milne,74,1882
+83846,Margery Williams Bianco,63,1881
+86404,E.M. Forster,91,1879
+102203,Corrie ten Boom,90,1892
+104728,William Peter Blatty,89,1928
+108424,Patrick Rothfuss,,
+123715,Agatha Christie,85,1890
+128382,Leo Tolstoy,82,1828
+137902,Richelle Mead,,
+150038,Cassandra Clare,,
+153394,Suzanne Collins,57,1962
+194531,Garth Stein,,
+200317,Alyson Noel,,
+239579,Charles Dickens,58,1812
+281810,Jojo Moyes,,
+285217,Johann Wolfgang von Goethe,82,1749
+286014,Ki Longfellow,,
+295178,Gayle Forman,,
+324620,Laini Taylor,,
+346732,George R.R. Martin,71,1948
+348878,James Dashner,,
+410653,Astrid Lindgren,94,1907
+426944,T.H. White,57,1906
+431149,Truman Capote,59,1924
+435477,Shel Silverstein,68,1930
+498072,Audrey Niffenegger,,
+534082,Tim Butcher,,
+569269,Jay Asher,,
+608211,Robin Waterfield,,
+626222,Anita Diamant,,
+656983,J.R.R. Tolkien,81,1892
+706255,Stieg Larsson,50,1954
+762707,S.E. Hinton,,
+819789,J.D. Salinger,91,1919
+854076,Robert Louis Stevenson,44,1850
+880695,H.G. Wells,79,1866
+881203,Willa Cather,73,1873
+941441,Stephenie Meyer,46,1973
+957894,Albert Camus,46,1913
+988142,E.B. White,86,1899
+1020792,Antoine de Saint-Exupéry,44,1900
+1036615,Charlotte Brontë,38,1816
+1069006,C.S. Lewis,64,1898
+1077326,J.K. Rowling,54,1965
+1113469,Hermann Hesse,85,1877
+1194527,Mary Ann Shaffer,74,1934
+1221698,Neil Gaiman,,
+1262010,Annie Proulx,84,1935
+1285555,José Saramago,87,1922
+1304470,Ally Condie,,
+1330292,Maggie Stiefvater,,
+1353301,V.C. Andrews,63,1923
+1373880,Kristin Cashore,43,1976
+1388082,Jostein Gaarder,67,1952
+1406384,John Green,,
+1433597,Samuel Beckett,83,1906
+1943477,Kathryn Stockett,,
+2001717,Daphne du Maurier,81,1907
+2327917,Betty  Smith,75,1896
+2622245,Lao Tzu,,
+2778055,Kurt Vonnegut,84,1922
+2876763,Becca Fitzpatrick,,
+2893961,Emmuska Orczy,82,1865
+2895706,Kami Garcia,,
+2905297,Lauren Kate,,
+2936493,Lauren Oliver,,
+2987125,Kiera Cass,,
+2995873,Julie Kagawa,,
+3012988,Robert Graves,90,1895
+3046613,Ransom Riggs,41,1979
+3095893,Stephanie Perkins,,
+3137322,Fyodor Dostoyevsky,59,1821
+3377941,Rick Yancey,,
+3433047,Sarah J. Maas,,
+4037220,Miguel de Cervantes Saavedra,68,1547
+4039811,Veronica Roth,,
+4208569,Rainbow Rowell,,
+4342215,Marie Lu,,
+4370565,Erin Morgenstern,,
+4390174,Reduced Shakespeare Company,,
+4464118,Jamie McGuire,41,1978
+4476934,Jennifer L. Armentrout,,
+4575289,Leigh Bardugo,44,1975
+4624490,Edgar Allan Poe,40,1809
+4637539,Tahereh Mafi,,
+4684322,Marissa Meyer,,
+4699102,Unknown,,
+4725841,E.L. James,,
+4841825,Marion Zimmer Bradley,69,1930
+4859212,R.J. Palacio,,
+4917067,Colleen McCullough,77,1937
+5031312,Dante Alighieri,56,1265
+5158478,Anonymous,,
+5255014,J.M. Barrie,77,1860
+5430144,Colleen Hoover,,
+5754446,Voltaire,83,1694
+6039100,Robert Munsch,74,1945
+6466154,Kahlil Gibran,48,1883
+6538289,David Mitchell,51,1969
+6540057,Andy Weir,,
+7136914,Ann Patchett,56,1963
+15481463,William Paul Young,64,1955
+18235662,سید مرتضی مصطفوی,,
